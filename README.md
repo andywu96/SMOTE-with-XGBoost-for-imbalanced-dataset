@@ -21,3 +21,6 @@ This is one of the HW assignment at USC, using SMOTE to solve a seriously imbala
 
 ## Machine Learning for Data Science
 ![data_science](ds.jpg)
+
+## XGBoost
+![data_science](XGBoost.jpg)
